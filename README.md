@@ -41,5 +41,4 @@ CREATE TABLE `Dados dos responsáveis` (
   PRIMARY KEY (`0001`)
 );
 
-
-
+!()[https://github.com/EdsonNascimentoSouza/Banco-de-dados-Asecab-/blob/main/diagrama.png]
